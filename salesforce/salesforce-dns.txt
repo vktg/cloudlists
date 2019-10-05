@@ -1,0 +1,11 @@
+.force.com
+.salesforce.com
+.salesforceliveagent.com
+.visualforce.com
+.documentforce.com
+.lightning.com
+.salesforce-communities.com
+.forceusercontent.com
+.forcesslreports.com 
+.salesforce-hub.com
+.trailblazer.me
