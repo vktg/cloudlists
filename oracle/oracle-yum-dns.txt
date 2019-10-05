@@ -1,0 +1,9 @@
+yum-ap-sydney-1.oracle.com
+yum-ca-toronto-1.oracle.com
+yum-eu-frankfurt-1.oracle.com
+yum-ap-mumbai-1.oracle.com
+yum-ap-tokyo-1.oracle.com
+yum-ap-seoul-1.oracle.com
+yum-uk-london-1.oracle.com
+yum-us-ashburn-1.oracle.com
+yum-us-phoenix-1.oracle.com

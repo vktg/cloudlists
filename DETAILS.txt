@@ -1,0 +1,24 @@
+Forcepoint:
+https://support.forcepoint.com/KBArticle?id=Cloud-service-data-center-IP-addresses-port-numbers
+
+IBM Cloud:
+https://cloud.ibm.com/docs/infrastructure/hardware-firewall-dedicated?topic=hardware-firewall-dedicated-ibm-cloud-ip-ranges
+
+Symantec Web Security Services:
+https://support.symantec.com/us/en/article.tech242979.html
+
+Adobe Experience Cloud:
+https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html
+
+IP address ranges for Symantec.cloud and WSS:
+https://support.symantec.com/us/en/article.info4532.html
+https://support.symantec.com/us/en/article.tech242979.html
+
+Oracle Cloud:
+https://docs.cloud.oracle.com/iaas/Content/General/Concepts/addressranges.htm
+
+McAfee Web Gateway Cloud Service IP addresses and ranges:
+https://kc.mcafee.com/corporate/index?page=content&id=KB87232&elqTrackId=C15CF2AED94B609A962CFD18FD61D2C1&elqTrack=true
+
+Huawei Cloud Service data center:
+https://ipinfo.io/AS55990
