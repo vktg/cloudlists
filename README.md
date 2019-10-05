@@ -8,6 +8,7 @@
 <li>Forcepoint</li>
 <li>McAfee Web Gateway Cloud</li>
 <li>Oracle Cloud</li>
+<li>Salesforce</li>
 <li>Symantec Cloud</li>
 <li>Symantec Web Security Services</li>
 </ul>
