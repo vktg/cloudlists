@@ -1,11 +1,13 @@
 # cloudlists
-IP Addresses and ranges for some Cloud Service providers
+<h1>IP Addresses and ranges for some Cloud Service providers</h1>
 
-Adobe Experience Cloud
-IBM Cloud
-Huawei Cloud Service
-Forcepoint
-McAfee Web Gateway Cloud
-Oracle Cloud
-Symantec Cloud
-Symantec Web Security Services
+<ul>
+<li>Adobe Experience Cloud</li>
+<li>IBM Cloud</li>
+<li>Huawei Cloud Service</li>
+<li>Forcepoint</li>
+<li>McAfee Web Gateway Cloud</li>
+<li>Oracle Cloud</li>
+<li>Symantec Cloud</li>
+<li>Symantec Web Security Services</li>
+</ul>
